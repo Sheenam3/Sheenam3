@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Sheenam3
-- 👀 I’m interested in kubernetes, docker, blockchain, crypto quantitative analysis
-- 🌱 I’m currently learning Crypto Analysis and Golang
-- 💞️ I’m looking to collaborate on Blockchain and cloud-focused services
+- Certified Kubernetes Administrator
+- 👀 I’m interested in kubernetes, docker, devops, blockchain, crypto quantitative analysis
+- 🌱 I’m currently working on Golang, kubernetes
+- 💞️ I’m looking to work on latest technologies
 - 📫 How to reach me?
 
-    <b>mail</b>: attkillrocks@gmail.com
+    <b>mail</b>: sheenampathak3@gmail.com
 
 
     <b>Know me more</b>: www.sheenampathak.com
