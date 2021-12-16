@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sheenam3
 - Certified Kubernetes Administrator
-- 👀 I’m interested in kubernetes, docker, devops, blockchain, crypto quantitative analysis
+- 👀 I’m interested in kubernetes, docker, devops, development using python and golang
 - 🌱 I’m currently working on Golang, kubernetes
 - 💞️ I’m looking to work on latest technologies
 - 📫 How to reach me?
