@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sheenam3
 - Certified Kubernetes Administrator
 - 👀 I’m interested in DevOps and AI
-- 🌱 I’m currently working on DevOps tools
+- 🌱 I’m currently working on Ansible, Jenkins, CICD
 - 💞️ I’m looking to work on latest technologies
 - 📫 How to reach me?
 
